@@ -1,15 +1,9 @@
-# BEIT-Project_2020-2021
+# IdClick:Identify Students Digitally
 
-Following Repository Consists of Final Project Source code (Group Number.Project Title.zip)
+Group Members:-
+1.Karan Thakkar
+2.Arun Pandey
+3.Gunasekar Naikar
 
-a.Working Source code with Latest Database Backup 
-b.Synopsis Soft Copy(.pdf) (SEM-7)
-c.Final Project Report Black book (SEM-8)(.pdf) 
-d.All Project Presentations(Mid-Term & Final) (.ppt and .pdf) 
-e.All Reference Papers
-f.Published Papers (if any) (.pdf)
-g.Industry letter (if sponsered project)
-h.Include README.md file with 
-  i.Title Of Project 
-  ii.Group Members 
-  iii.Brief Description about Project Implementation
+# Description
+This is an WebApp for recognizing students in campus. Users for this are college staff, gate personnel or any other college faculty. This app saves images to json file. Tech Stack used for this is reactjs,nodejs,face-api.js,twilio.
